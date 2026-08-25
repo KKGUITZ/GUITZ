@@ -10,7 +10,7 @@ ADS Student • Web Development • UI Design
 
 <br>
 
-<img src="./assets/" width="200">
+<img src="./assets/IMG_1871.PNG" width="200">
 <img src="./assets/" width="200">
 <img src="./assets/" width="200">
 <img src="./assets/" width="200">
