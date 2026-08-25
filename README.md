@@ -11,9 +11,9 @@ ADS Student • Web Development • UI Design
 <br>
 
 <img src="./assets/IMG_1860.PNG" width="45">
-<img src="./assets/personagem-2.png" width="45">
-<img src="./assets/personagem-3.png" width="45">
-<img src="./assets/personagem-4.png" width="45">
+<img src="./assets/IMG_1861.PNG" width="45">
+<img src="./assets/IMG_1863.JPG" width="45">
+<img src="./assets/7D2D7C8E-A10C-4B17-AA85-1D91FB52A35F.png" width="45">
 
 </div>
 
