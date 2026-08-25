@@ -23,6 +23,8 @@ ADS Student • Web Development • UI Design
 
 ## About Me / Sobre Mim
 
+<br>
+
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
 💻 Interessado em desenvolvimento Web, Front-end e Back-end.
