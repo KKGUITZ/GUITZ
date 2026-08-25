@@ -4,7 +4,7 @@
 
 ### DEVELOPER / DESIGNER
 
-**Guilherme**
+**Guilherme Ribeiro da Silva**
 
 ADS Student • Web Development • UI Design
 
@@ -19,7 +19,7 @@ ADS Student • Web Development • UI Design
 
 ---
 
-## About Me
+## About Me / Sobre Mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 
