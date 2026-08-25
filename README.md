@@ -15,7 +15,6 @@ ADS Student • Web Development • UI Design
 <img src="./assets/IMG_1872.PNG" width="200">
 &nbsp;&nbsp;
 <img src="./assets/IMG_1873.PNG" width="200">
-&nbsp;&nbsp;
 
 </div>
 
@@ -23,14 +22,12 @@ ADS Student • Web Development • UI Design
 
 ## About Me // Sobre Mim
 
-<br>
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+💻 Interessado em **Desenvolvimento Web, Front-end e Back-end**.
 
-💻 Interessado em desenvolvimento Web, Front-end e Back-end.
+🎨 Gosto de **UI Design** e criação de interfaces.
 
-🎨 Também gosto de UI Design e criação de interfaces.
+🖌️ Tenho experiência com **criação de artes digitais e design**.
 
-🚀 Atualmente estudando e construindo novos projetos.
-
-🖌️ Tenho experiência com criação de artes digitais
+🚀 Atualmente estudando, desenvolvendo minhas habilidades e construindo novos projetos.
