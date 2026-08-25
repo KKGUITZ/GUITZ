@@ -19,8 +19,6 @@ ADS Student • Web Development • UI Design
 
 <br>
 
----
-
 ## About Me / Sobre Mim
 
 <br>
