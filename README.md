@@ -10,13 +10,13 @@ ADS Student • Web Development • UI Design
 
 <br>
 
-<img src="./assets/IMG_1871.PNG" width="200">]
+<img src="./assets/IMG_1871.PNG" width="200">
 &nbsp;&nbsp;
 <img src="./assets/IMG_1872.PNG" width="200">
 &nbsp;&nbsp;
 <img src="./assets/IMG_1873.PNG" width="200">
 &nbsp;&nbsp;
-<img src="./assets/IMG_1874.PNG" width="200">]
+<img src="./assets/IMG_1874.PNG" width="200">
 
 </div>
 
