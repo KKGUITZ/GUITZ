@@ -32,3 +32,5 @@ ADS Student • Web Development • UI Design
 🎨 Também gosto de UI Design e criação de interfaces.
 
 🚀 Atualmente estudando e construindo novos projetos.
+
+🖌️ Tenho experiência com criação de artes digitais
